@@ -11,8 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=DevEdcarlos062&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevEdcarlos062&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEdcarlos062&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0E76A8)
+![](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DevEdcarlos062&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
